@@ -1,7 +1,7 @@
-"""ML Abstraction Api.
+"""Cubist ML Abstraction Api.
 
-Provides a simple HTTP api that allos Cubist engineers to
-interact with one or many Machine Learning as Service providers.
+Provides a simple HTTP api that allows Cubist engineers to
+interact with one or many Machine Learning as a Service providers.
 """
 
 __author__ = 'reinaldo@reinaldo.ca'
